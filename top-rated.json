@@ -1,3 +1,4 @@
+
 [
   {
     "id": "1",
@@ -8,7 +9,23 @@
     "filmBackground": "./../images/top-rated/backgrounds/DeadPoets.jfif",
     "genres": "Drama,Coming-of-Age",
     "tailer": "https://www.youtube.com/embed/VIDEO_ID",
-    "reviews": "",
+    "reviews": [
+      {
+        "name": "Sarah",
+        "rating": 5,
+        "comment": "A beautiful and inspiring story that reminds us to think freely and follow our passions."
+      },
+      {
+        "name": "Adam",
+        "rating": 4,
+        "comment": "The performances are excellent, and the message of the movie stays with you."
+      },
+      {
+        "name": "Lily",
+        "rating": 5,
+        "comment": "An emotional and meaningful film with unforgettable moments."
+      }
+    ],
     "date": "02/06/1989",
     "runTime": "2h,8m",
     "adult": "PG"
@@ -22,7 +39,23 @@
     "filmBackground": "./../images/top-rated/backgrounds/DeathlyHallows.jfif",
     "genres": "Fantasy,Adventure",
     "tailer": "https://www.youtube.com/embed/VIDEO_ID",
-    "reviews": "",
+    "reviews": [
+      {
+        "name": "Daniel",
+        "rating": 5,
+        "comment": "An exciting and emotional conclusion to an unforgettable magical journey."
+      },
+      {
+        "name": "Emma",
+        "rating": 5,
+        "comment": "The visual effects and final battle make this a memorable fantasy adventure."
+      },
+      {
+        "name": "Oliver",
+        "rating": 4,
+        "comment": "A satisfying ending with great action and emotional moments."
+      }
+    ],
     "date": "15/07/2011",
     "runTime": "2h,10m",
     "adult": "PG-13"
@@ -36,7 +69,23 @@
     "filmBackground": "./../images/top-rated/backgrounds/Tintin.jfif",
     "genres": "Adventure,Mystery,Action",
     "tailer": "https://www.youtube.com/embed/VIDEO_ID",
-    "reviews": "",
+    "reviews": [
+      {
+        "name": "Noah",
+        "rating": 5,
+        "comment": "A fun adventure filled with mystery, impressive animation, and exciting discoveries."
+      },
+      {
+        "name": "Mia",
+        "rating": 4,
+        "comment": "The action sequences are fantastic, and the story keeps moving at a great pace."
+      },
+      {
+        "name": "Leo",
+        "rating": 4,
+        "comment": "A charming adventure with beautiful visuals and plenty of surprises."
+      }
+    ],
     "date": "21/12/2011",
     "runTime": "1h,47m",
     "adult": "PG"
@@ -50,7 +99,23 @@
     "filmBackground": "./../images/top-rated/backgrounds/PrisonerofAzkaban.jfif",
     "genres": "Fantasy,Adventure",
     "tailer": "https://www.youtube.com/embed/VIDEO_ID",
-    "reviews": "",
+    "reviews": [
+      {
+        "name": "Sophie",
+        "rating": 5,
+        "comment": "A darker and more mysterious Harry Potter adventure with a fantastic atmosphere."
+      },
+      {
+        "name": "James",
+        "rating": 5,
+        "comment": "The storytelling and character development make this one of my favorite entries."
+      },
+      {
+        "name": "Ella",
+        "rating": 4,
+        "comment": "A magical story with memorable characters and a wonderful soundtrack."
+      }
+    ],
     "date": "04/06/2004",
     "runTime": "2h,22m",
     "adult": "PG"
@@ -64,7 +129,23 @@
     "filmBackground": "./../images/top-rated/backgrounds/TheAvengers.jfif",
     "genres": "Action,Adventure,Sci-Fi",
     "tailer": "https://www.youtube.com/embed/VIDEO_ID",
-    "reviews": "",
+    "reviews": [
+      {
+        "name": "Alex",
+        "rating": 5,
+        "comment": "An entertaining superhero adventure with great teamwork and exciting action."
+      },
+      {
+        "name": "Chris",
+        "rating": 4,
+        "comment": "The characters work wonderfully together, and the humor keeps the story enjoyable."
+      },
+      {
+        "name": "Ryan",
+        "rating": 5,
+        "comment": "A thrilling team-up with spectacular action and memorable moments."
+      }
+    ],
     "date": "04/05/2012",
     "runTime": "2h,23m",
     "adult": "PG-13"
@@ -78,7 +159,23 @@
     "filmBackground": "./../images/top-rated/backgrounds/FordvFerrari.jfif",
     "genres": "Drama,Sport,Action",
     "tailer": "https://www.youtube.com/embed/VIDEO_ID",
-    "reviews": "",
+    "reviews": [
+      {
+        "name": "Michael",
+        "rating": 5,
+        "comment": "A powerful story about friendship, determination, and the pursuit of excellence."
+      },
+      {
+        "name": "Grace",
+        "rating": 5,
+        "comment": "The racing scenes are incredible, and the emotional story makes them even better."
+      },
+      {
+        "name": "Jack",
+        "rating": 4,
+        "comment": "A gripping racing drama with outstanding performances and impressive visuals."
+      }
+    ],
     "date": "15/11/2019",
     "runTime": "2h,32m",
     "adult": "PG-13"
@@ -92,7 +189,23 @@
     "filmBackground": "./../images/top-rated/backgrounds/TheMartian.jfif",
     "genres": "Sci-Fi,Adventure,Drama",
     "tailer": "https://www.youtube.com/embed/VIDEO_ID",
-    "reviews": "",
+    "reviews": [
+      {
+        "name": "Ethan",
+        "rating": 5,
+        "comment": "A clever and inspiring survival story that makes science exciting."
+      },
+      {
+        "name": "Chloe",
+        "rating": 4,
+        "comment": "The humor balances the tension perfectly, and the visuals are impressive."
+      },
+      {
+        "name": "William",
+        "rating": 5,
+        "comment": "A fascinating space adventure about resilience, creativity, and hope."
+      }
+    ],
     "date": "02/10/2015",
     "runTime": "2h,24m",
     "adult": "PG-13"
@@ -106,7 +219,23 @@
     "filmBackground": "./../images/top-rated/backgrounds/Interstellar.jfif",
     "genres": "Sci-Fi,Adventure,Drama",
     "tailer": "https://www.youtube.com/embed/VIDEO_ID",
-    "reviews": "",
+    "reviews": [
+      {
+        "name": "Lucas",
+        "rating": 5,
+        "comment": "A breathtaking science-fiction experience with powerful emotions and incredible visuals."
+      },
+      {
+        "name": "Amelia",
+        "rating": 5,
+        "comment": "The music, cinematography, and story create an unforgettable movie experience."
+      },
+      {
+        "name": "Henry",
+        "rating": 4,
+        "comment": "A thought-provoking film that explores time, space, and human connection."
+      }
+    ],
     "date": "07/11/2014",
     "runTime": "2h,49m",
     "adult": "PG-13"
